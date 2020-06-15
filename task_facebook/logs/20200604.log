@@ -1,0 +1,11 @@
+INFO 2020-06-04 23:56:57,070 - browser is opened...
+INFO 2020-06-04 23:56:58,140 - loggin page started..
+INFO 2020-06-04 23:56:58,625 - logged in successfully!
+INFO 2020-06-04 23:56:58,626 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-04 23:57:03,881 - filling out the form...
+INFO 2020-06-04 23:57:09,831 - adding a photo : C:\dev\other\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-04 23:57:09,921 - photo uploaded!
+INFO 2020-06-04 23:57:24,650 - screenshot is taken :C:\dev\other\task_facebook/screenshots/20200604-235724.png
+INFO 2020-06-04 23:57:43,345 - Deleting the item Iphone X brand new
+INFO 2020-06-04 23:57:43,900 - listing deleted.
+INFO 2020-06-04 23:57:43,900 - confirming with reason : No, haven't sold

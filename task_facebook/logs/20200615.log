@@ -1,0 +1,143 @@
+INFO 2020-06-15 00:13:19,910 - browser is opened...
+INFO 2020-06-15 00:13:21,497 - loggin page started..
+INFO 2020-06-15 00:13:22,111 - logged in successfully!
+INFO 2020-06-15 00:14:57,829 - browser is opened...
+INFO 2020-06-15 00:14:59,393 - loggin page started..
+INFO 2020-06-15 00:15:00,296 - logged in successfully!
+INFO 2020-06-15 00:15:31,707 - browser is opened...
+INFO 2020-06-15 00:15:33,091 - loggin page started..
+INFO 2020-06-15 00:15:33,960 - logged in successfully!
+INFO 2020-06-15 00:20:19,608 - browser is opened...
+INFO 2020-06-15 00:20:20,954 - loggin page started..
+INFO 2020-06-15 00:20:21,525 - logged in successfully!
+INFO 2020-06-15 00:20:21,526 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 00:20:27,677 - filling out the form...
+INFO 2020-06-15 00:20:27,677 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 00:20:28,208 - photo uploaded!
+INFO 2020-06-15 00:20:36,877 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-002036.png
+INFO 2020-06-15 00:20:45,556 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-002045.png
+INFO 2020-06-15 00:20:45,556 - item published
+INFO 2020-06-15 00:20:50,556 - Deleting the item Iphone X brand new
+INFO 2020-06-15 00:20:55,829 - listing deleted.
+INFO 2020-06-15 00:20:58,957 - deleting is confirmed.
+INFO 2020-06-15 00:20:59,394 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-002058.png
+INFO 2020-06-15 00:20:59,395 - test completed!
+INFO 2020-06-15 00:25:36,603 - browser is opened...
+INFO 2020-06-15 00:25:37,908 - loggin page started..
+INFO 2020-06-15 00:25:38,633 - logged in successfully!
+INFO 2020-06-15 00:25:38,635 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 00:25:45,295 - filling out the form...
+INFO 2020-06-15 00:25:45,295 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 00:25:46,243 - photo uploaded!
+INFO 2020-06-15 00:25:54,864 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-002554.png
+INFO 2020-06-15 00:26:03,835 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-002603.png
+INFO 2020-06-15 00:26:03,835 - item published
+INFO 2020-06-15 00:26:08,835 - Deleting the item Iphone X brand new
+INFO 2020-06-15 00:26:14,090 - listing deleted.
+INFO 2020-06-15 00:26:17,185 - deleting is confirmed.
+INFO 2020-06-15 00:26:17,542 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-002617.png
+INFO 2020-06-15 00:26:17,542 - test completed!
+INFO 2020-06-15 12:13:07,181 - browser is opened...
+INFO 2020-06-15 12:13:09,004 - loggin page started..
+INFO 2020-06-15 12:13:09,843 - logged in successfully!
+INFO 2020-06-15 12:13:09,844 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 12:13:16,591 - filling out the form...
+INFO 2020-06-15 12:13:16,591 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 12:13:17,599 - photo uploaded!
+INFO 2020-06-15 12:13:26,442 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-121325.png
+INFO 2020-06-15 12:13:35,048 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-121334.png
+INFO 2020-06-15 12:13:35,048 - item published
+INFO 2020-06-15 12:13:40,048 - Deleting the item Iphone X brand new
+INFO 2020-06-15 12:13:45,270 - listing deleted.
+INFO 2020-06-15 12:13:48,338 - deleting is confirmed.
+INFO 2020-06-15 12:13:48,704 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-121348.png
+INFO 2020-06-15 12:13:48,704 - test completed!
+INFO 2020-06-15 13:23:16,889 - browser is opened...
+INFO 2020-06-15 13:23:17,245 - loggin page started..
+INFO 2020-06-15 13:23:51,919 - browser is opened...
+INFO 2020-06-15 13:23:53,524 - loggin page started..
+INFO 2020-06-15 13:23:54,370 - logged in successfully!
+INFO 2020-06-15 13:23:54,371 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 13:24:15,266 - browser is opened...
+INFO 2020-06-15 13:24:16,328 - loggin page started..
+INFO 2020-06-15 13:24:16,971 - logged in successfully!
+INFO 2020-06-15 13:24:16,972 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 13:24:22,595 - filling out the form...
+INFO 2020-06-15 13:24:22,595 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 13:24:23,131 - photo uploaded!
+INFO 2020-06-15 13:24:31,714 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-132430.png
+INFO 2020-06-15 13:24:40,352 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-132439.png
+INFO 2020-06-15 13:24:40,353 - item published
+INFO 2020-06-15 13:24:45,353 - Deleting the item Iphone X brand new
+INFO 2020-06-15 13:24:50,701 - listing deleted.
+INFO 2020-06-15 13:24:53,863 - deleting is confirmed.
+INFO 2020-06-15 13:24:54,282 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-132453.png
+INFO 2020-06-15 13:24:54,282 - test completed!
+INFO 2020-06-15 14:23:58,198 - browser is opened...
+INFO 2020-06-15 14:23:59,488 - loggin page started..
+INFO 2020-06-15 14:24:00,125 - logged in successfully!
+INFO 2020-06-15 14:24:00,126 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 14:24:06,281 - filling out the form...
+INFO 2020-06-15 14:24:06,281 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 14:24:07,016 - photo uploaded!
+INFO 2020-06-15 14:24:15,662 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-142414.png
+INFO 2020-06-15 14:24:24,316 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-142423.png
+INFO 2020-06-15 14:24:24,317 - item published
+INFO 2020-06-15 14:24:29,318 - Deleting the item Iphone X brand new
+INFO 2020-06-15 14:24:34,631 - listing deleted.
+INFO 2020-06-15 14:24:37,721 - deleting is confirmed.
+INFO 2020-06-15 14:24:38,116 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-142437.png
+INFO 2020-06-15 14:24:38,116 - test completed!
+INFO 2020-06-15 14:59:40,065 - browser is opened...
+INFO 2020-06-15 14:59:41,333 - loggin page started..
+INFO 2020-06-15 14:59:41,969 - logged in successfully!
+INFO 2020-06-15 14:59:41,970 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 15:00:03,031 - browser is opened...
+INFO 2020-06-15 15:00:04,310 - loggin page started..
+INFO 2020-06-15 15:00:05,152 - logged in successfully!
+INFO 2020-06-15 15:00:05,153 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 15:28:11,996 - browser is opened...
+INFO 2020-06-15 15:28:13,964 - loggin page started..
+INFO 2020-06-15 15:28:14,969 - logged in successfully!
+INFO 2020-06-15 15:28:14,970 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 15:28:21,766 - filling out the form...
+INFO 2020-06-15 15:28:21,766 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 15:28:22,751 - photo uploaded!
+INFO 2020-06-15 15:28:31,703 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-152830.png
+INFO 2020-06-15 15:28:40,291 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-152839.png
+INFO 2020-06-15 15:28:40,291 - item published
+INFO 2020-06-15 15:28:45,292 - Deleting the item Iphone X brand new
+INFO 2020-06-15 15:28:50,426 - listing deleted.
+INFO 2020-06-15 15:28:53,529 - deleting is confirmed.
+INFO 2020-06-15 15:28:53,906 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-152853.png
+INFO 2020-06-15 15:28:53,907 - test completed!
+INFO 2020-06-15 15:38:53,126 - browser is opened...
+INFO 2020-06-15 15:38:54,555 - loggin page started..
+INFO 2020-06-15 15:38:55,510 - logged in successfully!
+INFO 2020-06-15 15:38:55,512 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 15:39:02,571 - filling out the form...
+INFO 2020-06-15 15:39:02,572 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 15:39:03,286 - photo uploaded!
+INFO 2020-06-15 15:39:12,218 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-153911.png
+INFO 2020-06-15 15:39:20,761 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-153920.png
+INFO 2020-06-15 15:39:20,761 - item published
+INFO 2020-06-15 15:39:25,761 - Deleting the item Iphone X brand new
+INFO 2020-06-15 15:39:30,906 - listing deleted.
+INFO 2020-06-15 15:39:33,970 - deleting is confirmed.
+INFO 2020-06-15 15:39:34,442 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-153933.png
+INFO 2020-06-15 15:39:34,442 - test completed!
+INFO 2020-06-15 15:44:00,581 - browser is opened...
+INFO 2020-06-15 15:44:02,625 - loggin page started..
+INFO 2020-06-15 15:44:03,451 - logged in successfully!
+INFO 2020-06-15 15:44:03,453 - # Open browser and navigate to Facebook marketplace
+INFO 2020-06-15 15:44:10,695 - filling out the form...
+INFO 2020-06-15 15:44:10,696 - adding a photo : C:\dev\task_facebook/data/uploads/iphonex.png
+INFO 2020-06-15 15:44:11,333 - photo uploaded!
+INFO 2020-06-15 15:44:20,438 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-154419.png
+INFO 2020-06-15 15:44:28,990 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-154428.png
+INFO 2020-06-15 15:44:28,990 - item published
+INFO 2020-06-15 15:44:33,990 - Deleting the item Iphone X brand new
+INFO 2020-06-15 15:44:39,127 - listing deleted.
+INFO 2020-06-15 15:44:42,186 - deleting is confirmed.
+INFO 2020-06-15 15:44:42,562 - screenshot is taken :C:\dev\task_facebook/screenshots/20200615-154442.png
+INFO 2020-06-15 15:44:42,562 - test completed!
